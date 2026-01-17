@@ -1,5 +1,5 @@
 # automatic-bamboo-hr
-Chrome plugin for enter timesheet hours in bamboo automatically
+Chrome plugin for entering timesheet hours in bamboo automatically
 
 # how to install it
 
