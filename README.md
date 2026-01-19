@@ -3,9 +3,14 @@ Chrome plugin for entering timesheet hours in bamboo automatically
 
 # How to install it
 
-- Download https://github.com/fjquirante/automatic-bamboo-hr/blob/main/bamboo-automatic.zip to a local folder
+- Download
+
+  https://github.com/fjquirante/automatic-bamboo-hr/blob/main/bamboo-automatic.zip
+
+  to a local folder
   
-   <img width="717" height="247" alt="image" src="https://github.com/user-attachments/assets/c0efd49f-0d6a-48ee-9626-5b7d366740ea" />
+   <img width="1053" height="482" alt="image" src="https://github.com/user-attachments/assets/c436f631-4c4b-4236-abe8-cde466a952dc" />
+
 
 - Uncompress the file
 
