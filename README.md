@@ -47,3 +47,11 @@ Chrome plugin for entering timesheet hours in bamboo in just one click
 
 
 # How to run it
+
+- A new button must appear in timesheet area in bamboo app
+
+  <img width="820" height="197" alt="image" src="https://github.com/user-attachments/assets/73f39934-9cc5-4d24-a9db-79179b2e0fac" />
+
+- Click on it and wait to the magic occurs
+  
+
