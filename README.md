@@ -17,6 +17,8 @@ Chrome plugin for entering timesheet hours in bamboo in just one click
   <img width="774" height="268" alt="image" src="https://github.com/user-attachments/assets/32772eb8-76f7-4d07-93ca-4c6c620c3ac9" />
   
    <p></p> 
+   <p></p> 
+   <p></p> 
 
   <img width="301" height="160" alt="image" src="https://github.com/user-attachments/assets/a1eda04b-24c4-4d3a-81cf-1ac31669e548" />
 
