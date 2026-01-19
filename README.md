@@ -39,23 +39,23 @@ A Chrome plugin for entering timesheet hours in bamboo in just one click
 
 <img width="181" height="133" alt="image" src="https://github.com/user-attachments/assets/eb2a41a0-f774-4d23-945a-cc38e84d15ee" />
 
-- Select recently created bamboo-automatic
+- Select the recently created bamboo-automatic folder
 
   <img width="830" height="254" alt="image" src="https://github.com/user-attachments/assets/ef0b27df-1dc4-430d-ace4-08875767baef" />
 
-- and voilá , all is ready for being used
+- and voilá , all is ready to use
 
 
 
 # How to run it
 
-- A new button must appear in timesheet area in bamboo app
+- A new button must appear in timesheet area of the bamboo app
 
   <img width="820" height="197" alt="image" src="https://github.com/user-attachments/assets/73f39934-9cc5-4d24-a9db-79179b2e0fac" />
 
-- Click on it and wait to the magic occurs
+- Click  it and wait  the magic to happen
 
 
 
-  _credits to Victor Maestro (https://github.com/Victor-Wizeline)  who started and do the 90% of the project_
+  _credits to Victor Maestro (https://github.com/Victor-Wizeline)  who created the plugin approach for the project_
 
