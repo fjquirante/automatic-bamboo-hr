@@ -56,5 +56,5 @@ Chrome plugin for entering timesheet hours in bamboo in just one click
 
 
 
-  ****cretits to Victor Maestro (https://github.com/Victor-Wizeline)  who started and do the 90% of the project
+  _credits to Victor Maestro (https://github.com/Victor-Wizeline)  who started and do the 90% of the project_
 
