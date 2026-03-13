@@ -36,14 +36,13 @@ A Chrome plugin for entering timesheet hours in bamboo in just one click
 
 - Click on Load unpacked
 
-
 <img width="181" height="133" alt="image" src="https://github.com/user-attachments/assets/eb2a41a0-f774-4d23-945a-cc38e84d15ee" />
 
 - Select the recently created bamboo-automatic folder
 
   <img width="830" height="254" alt="image" src="https://github.com/user-attachments/assets/ef0b27df-1dc4-430d-ace4-08875767baef" />
 
-- and voilá , all is ready to use
+- and voilá , that is all! 
 
 
 
